@@ -29,10 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanmanan&show_icons=true&locale=en&layout=compact" alt="khanmanan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanmanan&show_icons=true&locale=en" alt="khanmanan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lepetil&show_icons=true&locale=en" alt="Lepetil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanmanan&" alt="khanmanan" /></p>
 
 # Activity
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/682981714523586606)](https://discord.gg/cwkhan)
