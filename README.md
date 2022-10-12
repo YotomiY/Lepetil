@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cwkhan</h1>
-<h3 align="center">I am Discord developer / YouTuber from India</h3>
+<h1 align="center">Hi 👋, I'm Lepetil</h1>
+<h3 align="center">I am Discord developer / YouTuber</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmanan&label=Profile%20views&color=0e75b6&style=flat" alt="khanmanan" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Javascript & html**
 
-- 👯 I’m looking to collaborate on [Automod-bot](https://github.com/khanmanan/automod-bot)
+- 👯 I’m looking to collaborate on [Automod-bot]
 
-- 👨‍💻 All of my projects are available at [https://cwkhan.xyz](https://cwkhan.xyz)
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC3vS8EWao1UOdTfr3ngGQaA]
 
-- 📫 How to reach me **https://discord.gg/7P6WjqRcft**
+- 📫 How to reach me **....**
 
 - ⚡ Fun fact **Im coding on Android 😆**
 
