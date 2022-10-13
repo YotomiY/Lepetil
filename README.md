@@ -45,6 +45,6 @@
   
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=Lepetik" alt="Trophies" />
+      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=Lepetil" alt="Trophies" />
     </a>
   </p>
