@@ -29,7 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lepetil&show_icons=true&locale=en&layout=compact" alt="Lepetil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lepetil&show_icons=true&locale=en" alt="Lepetil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lepetil&" alt="Lepetil" /></p>
 
