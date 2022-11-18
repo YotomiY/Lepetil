@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmanan&label=Profile%20views&color=0e75b6&style=flat" alt="khanmanan" /> </p>
 
-- 🔭 I’m currently working on [automodbot](https://automodbot.com)
+- 🔭 I’m currently working on [FIDJI BOT](https://github.com/Lepetil/Fidji-Bot)
 
 - 🌱 I’m currently learning **Javascript & html**
 
-- 👯 I’m looking to collaborate on [Automod-bot]
+- 👯 I’m looking to collaborate on [FIDJI LAUNCHER]
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC3vS8EWao1UOdTfr3ngGQaA]
 
