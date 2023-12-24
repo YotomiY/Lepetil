@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on []
+- 👯 I’m looking to collaborate on multiple projects
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC3vS8EWao1UOdTfr3ngGQaA]
+- 👨‍💻 All of my projects are available at my github profile
 
 - 📫 How to reach me **....**
 
