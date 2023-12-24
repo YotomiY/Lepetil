@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm YotomiY</h1>
 <h3 align="center">I am Fullstack Web developer and others</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmanan&label=Profile%20views&color=0e75b6&style=flat" alt="YotomiY" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YotomiY&label=Profile%20views&color=0e75b6&style=flat" alt="YotomiY" /> </p>
 
 - 🔭 I’m currently working on Tiktok Automatations
 
-- 🌱 I’m currently learning **Javascript & html**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on []
 
