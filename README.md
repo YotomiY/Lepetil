@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lepetil</h1>
 <h3 align="center">I am Discord developer / YouTuber</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmanan&label=Profile%20views&color=0e75b6&style=flat" alt="khanmanan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmanan&label=Profile%20views&color=0e75b6&style=flat" alt="YotomiY" /> </p>
 
-- 🔭 I’m currently working on [FIDJI BOT](https://github.com/Lepetil/Fidji-Bot)
+- 🔭 I’m currently working on Tiktok Automatations
 
 - 🌱 I’m currently learning **Javascript & html**
 
-- 👯 I’m looking to collaborate on [FIDJI LAUNCHER]
+- 👯 I’m looking to collaborate on []
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC3vS8EWao1UOdTfr3ngGQaA]
 
