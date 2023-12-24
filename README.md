@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **....**
 
-- ⚡ Fun fact **Im coding on Android 😆**
+- ⚡ Fun fact **I'm writing this in an iphone 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
